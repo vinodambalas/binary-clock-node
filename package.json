@@ -1,0 +1,15 @@
+{
+  "name": "binary-clock-node",
+  "version": "1.0.0",
+  "lockfileVersion": 3,
+  "requires": true,
+  "packages": {
+    "": {
+      "name": "binary-clock-node",
+      "version": "1.0.0"
+    }
+  },
+  "scripts": {
+    "dev": "node server.js"
+  }
+}

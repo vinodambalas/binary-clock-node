@@ -1,0 +1,6 @@
+// Placeholder content
+node_modules/
+.DS_Store
+.env
+.cache
+.vscode/
